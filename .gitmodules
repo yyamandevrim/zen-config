@@ -1,0 +1,3 @@
+[submodule "natsumi-browser"]
+	path = natsumi-browser
+	url = https://github.com/greeeen-dev/natsumi-browser.git
